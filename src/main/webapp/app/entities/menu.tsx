@@ -39,6 +39,9 @@ const EntitiesMenu = () => {
               <MenuItem icon="asterisk" to="/pharmacien">
                 <Translate contentKey="global.menu.entities.pharmacien" />
               </MenuItem>
+              <MenuItem icon="asterisk" to="/bar">
+                chart
+              </MenuItem>
             </>
           )}
           {/*{isPharmacien ?*/}
